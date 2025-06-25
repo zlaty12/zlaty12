@@ -12,8 +12,11 @@
   - [Intalagent NPC](https://github.com/zlaty12/MSProject)
 - <b>RTS City Builder game prototype</b>
   - [RTS City Builder](https://github.com/twilkinson199/agp2024)
-- <b>Advanture game prototype</b>
+- <b>Advanture Game Prototype</b>
   - [Cube](https://github.com/zlaty12/Cube2)
+- <b>ML Background Removal</b>
+  - [Background Removal](https://github.com/zlaty12/BackgroundRemovalAI)
+
 
 <h2>📺 YouTube Videos</h2>
 
