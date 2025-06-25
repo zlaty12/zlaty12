@@ -17,7 +17,7 @@
 
 <h2>📺 YouTube Videos</h2>
 
-- [wave function collapse](https://www.youtube.com/watch?v=yngMuAEO2m8&t=5s)
+- [Wave Function Collapse](https://www.youtube.com/watch?v=yngMuAEO2m8&t=5s)
 
 
 <h2> 🤳 Connect with me:</h2>
