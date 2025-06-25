@@ -10,6 +10,8 @@
 
 - <b>Locally run voice commanded NPC with natural and creative responses.</b>
   - [Intalagent NPC](https://github.com/zlaty12/MSProject)
+- <b>RTS game prototype</b>
+  - [RTS](https://github.com/somozadev/agp2024)
 
 <h2>📺 YouTube Videos</h2>
 
