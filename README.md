@@ -14,7 +14,7 @@
   - [RTS City Builder](https://github.com/twilkinson199/agp2024)
 - <b>Advanture Game Prototype</b>
   - [Cube](https://github.com/zlaty12/Cube2)
-- <b>ML Background Removal</b>
+- <b>ML Image Background Removal</b>
   - [Background Removal](https://github.com/zlaty12/BackgroundRemovalAI)
 
 
