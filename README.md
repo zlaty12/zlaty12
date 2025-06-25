@@ -12,6 +12,8 @@
   - [Intalagent NPC](https://github.com/zlaty12/MSProject)
 - <b>RTS game prototype</b>
   - [RTS](https://github.com/twilkinson199/agp2024)
+- <b>Advanture game prototype</b>
+  - [Cube](https://github.com/zlaty12/Cube2)
 
 <h2>📺 YouTube Videos</h2>
 
