@@ -10,15 +10,15 @@
 
 - <b>Locally run voice commanded NPC with natural and creative responses.</b>
   - [Intalagent NPC](https://github.com/zlaty12/MSProject)
-- <b>RTS game prototype</b>
-  - [RTS](https://github.com/twilkinson199/agp2024)
+- <b>RTS City Builder game prototype</b>
+  - [RTS City Builder](https://github.com/twilkinson199/agp2024)
 - <b>Advanture game prototype</b>
   - [Cube](https://github.com/zlaty12/Cube2)
 
 <h2>📺 YouTube Videos</h2>
 
 - [Wave Function Collapse](https://www.youtube.com/watch?v=yngMuAEO2m8&t=5s)
-
+- [RTS City Builder](https://www.youtube.com/watch?v=2vxNe0WJs5g&list=PLDMf2_m2O14gS4UeXZq2KPOvYLziMyi4f&index=20)
 
 <h2> 🤳 Connect with me:</h2>
 
