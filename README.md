@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Locally run voice commanded NPC with natural and creative responses.</b>
+  - [Intalagent NPC](https://github.com/zlaty12/MSProject)
 
 <h2>📺 Popular YouTube Videos</h2>
 
