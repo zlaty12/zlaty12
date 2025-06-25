@@ -6,7 +6,7 @@
   - [Good boy](https://store.steampowered.com/app/2986110/Good_Boy/)
 
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Locally run voice commanded NPC with natural and creative responses.</b>
   - [Intalagent NPC](https://github.com/zlaty12/MSProject)
