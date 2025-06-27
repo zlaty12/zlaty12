@@ -22,9 +22,11 @@
 <h2>📺 YouTube Videos</h2>
 
 
+- [Intalagent NPC](https://www.youtube.com/watch?v=OyYRhoKdS4U&list=PLDMf2_m2O14gS4UeXZq2KPOvYLziMyi4f&index=23)
 - [Wave Function Collapse](https://www.youtube.com/watch?v=yngMuAEO2m8&t=5s)
 - [RTS City Builder](https://www.youtube.com/watch?v=2vxNe0WJs5g&list=PLDMf2_m2O14gS4UeXZq2KPOvYLziMyi4f&index=20)
 - [Advanture game](https://www.youtube.com/watch?v=S9BNrnmvso8&list=PLDMf2_m2O14gS4UeXZq2KPOvYLziMyi4f&index=21)
+
 
 <h2> 🤳 Connect with me:</h2>
 
