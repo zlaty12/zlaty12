@@ -19,7 +19,7 @@
 - <b>OpenGl</b>
   - [OpenGl](https://github.com/zlaty12/OpenGL)
 
-<h2>📺 YouTube Videos</h2>
+<h2>▶️ YouTube Videos</h2>
 
 
 - [Intalagent NPC](https://www.youtube.com/watch?v=OyYRhoKdS4U&list=PLDMf2_m2O14gS4UeXZq2KPOvYLziMyi4f&index=23)
