@@ -1,4 +1,4 @@
-<h1>Zlatimir Rangelov <br/><a href="https://github.com/zlaty12">Programmer</a>, <a href="https://www.linkedin.com/in/zlatimir-rangelov-887909275/">Game Developer</a>, <a href="https://github.com/zlaty12">Machine Learning Enthusiast</a></h1>
+<h1>Zlatimir Rangelov <br/><a href="https://github.com/zlaty12">Programmer</a>, <a href="https://www.linkedin.com/in/zlatimir-rangelov-887909275/">Game Developer</a></h1>
 
 <h2>Commercial Games</h2>
 
