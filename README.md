@@ -3,7 +3,7 @@
 <h2>Commercial Games</h2>
 
 - <b>Observer Interactive</b>
-  - [Good boy](https://store.steampowered.com/app/2986110/Good_Boy/)
+  - [Rover's Tale](https://store.steampowered.com/app/2986110/Good_Boy/)
 
 
 <h2>👨‍💻 Projects:</h2>
